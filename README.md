@@ -1,12 +1,12 @@
 # Figma-tested Project
 
-This is a Next.js application for [Design to web app]. This project is designed to be fast, scalable, and easy to set up.
+This is a Next.js application for [Design to web app]. This project is designed to be fast, scalable, with SSR and Improved SEO
 
 ## Prerequisites
 
 Before running the project, make sure you have the following installed on your machine:
 
-- [Node.js](https://nodejs.org/en/) (>= 14.0.0)
+- [Node.js](https://nodejs.org/en/) (>= 20.00.0)
 - [npm](https://npmjs.com) or [Yarn](https://yarnpkg.com/) for package management
 
 ## Getting Started
