@@ -1,0 +1,76 @@
+.teamsCard {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.15);
+  padding: 30px;
+}
+
+.groupName {
+  color: #645caa;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "DM Sans", sans-serif;
+}
+
+.createdDate {
+  color: #727272;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: "DM Sans", sans-serif;
+  margin-top: 15px;
+}
+
+.trainingInfo {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-top: 31px;
+}
+
+.trainingLabel {
+  color: #000;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: "DM Sans", sans-serif;
+}
+
+.trainingValue {
+  background-color: #f71573;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 400;
+  font-family: "DM Sans", sans-serif;
+  padding: 5px 12px;
+  border-radius: 8px;
+}
+
+.membersSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.membersLabel {
+  color: #000;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: "DM Sans", sans-serif;
+}
+
+.memberAvatars {
+  display: flex;
+  align-items: flex-end;
+}
+
+.memberAvatar {
+  width: 65px;
+  height: 26px;
+  object-fit: cover;
+}
+
+.moreMembers {
+  width: 26px;
+  height: 26px;
+  margin-left: -10px;
+}

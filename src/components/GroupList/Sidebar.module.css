@@ -1,0 +1,114 @@
+.sidebar {
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+  height: 100vh;
+  padding: 36px 34px;
+  display: flex;
+  flex-direction: column;
+  width: 28%;
+  overflow-y: auto;
+}
+
+.userInfo {
+  display: flex;
+  align-items: flex-start;
+  gap: 13px;
+}
+
+.avatar {
+  width: 76px;
+  height: 76px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.welcomeText {
+  color: #101828;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 2.2;
+  letter-spacing: -0.4px;
+}
+
+.nameWrapper {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.userName {
+  color: #101828;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 2;
+  letter-spacing: -0.48px;
+}
+
+.notificationButton {
+  background: none;
+  border: none;
+  padding: 12px 14px;
+  cursor: pointer;
+  border-radius: 7px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.04);
+}
+
+.navigation {
+  margin-top: 53px;
+}
+
+.navLink {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  color: #101828;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 2.2;
+  letter-spacing: -0.4px;
+  text-decoration: none;
+  margin-bottom: 39px;
+}
+
+.groupsSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 42px;
+}
+
+.groupsLink {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  color: #101828;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 2.2;
+  letter-spacing: -0.4px;
+  text-decoration: none;
+}
+
+.logoutButton {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  color: #101828;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 2.2;
+  letter-spacing: -0.4px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin-top: auto;
+  padding: 0;
+}
+
+@media (max-width: 991px) {
+  .sidebar {
+    width: 100%;
+    padding: 20px;
+  }
+}
