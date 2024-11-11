@@ -25,4 +25,43 @@ git clone https://github.com/zied-23/Figma-tested-use.git
 
 Change to the project directory:
 
+```bash
 cd Figma-tested-use
+```
+
+### 3. Install dependencies
+
+Run the following command to install the required dependencies:
+
+```bash
+npm install
+```
+
+or if you prefer Yarn:
+
+```bash
+yarn install
+```
+
+### 4. Run the development server
+
+Start the development server with:
+
+```bash
+npm run dev
+```
+
+or using Yarn:
+
+```bash
+yarn dev
+```
+
+## Acknowledgments
+
+    Next.js for providing an excellent framework for building React applications.
+    React for the underlying JavaScript library.
+
+## This block of code includes:
+- Instructions for cloning the repository, installing dependencies, and running both development and production versions of the app.
+- Environment variable setup instructions.
