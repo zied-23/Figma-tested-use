@@ -16,3 +16,13 @@ Follow these steps to get the project up and running locally.
 ### 1. Clone the repository
 
 Start by cloning the repository to your local machine:
+
+```bash
+git clone https://github.com/zied-23/Figma-tested-use.git
+```
+
+### 2. Navigate to the project directory
+
+Change to the project directory:
+
+cd Figma-tested-use
