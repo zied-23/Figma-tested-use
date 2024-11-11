@@ -1,6 +1,6 @@
 # Figma-tested Project
 
-This is a Next.js application for [Design to web app]. This project is designed to be fast, scalable, with SSR and Improved SEO
+This is a Next.js application for [Design to Web app]. This project is designed to be fast, scalable, with SSR and Improved SEO
 
 ## Prerequisites
 
