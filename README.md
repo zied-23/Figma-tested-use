@@ -1,6 +1,6 @@
 # Figma-tested Project
 
-This is a Next.js application for [your project description]. This project is designed to be fast, scalable, and easy to set up.
+This is a Next.js application for [Design to web app]. This project is designed to be fast, scalable, and easy to set up.
 
 ## Prerequisites
 
