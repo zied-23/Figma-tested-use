@@ -1,4 +1,4 @@
-# Next.js Project
+# Figma-tested Project
 
 This is a Next.js application for [your project description]. This project is designed to be fast, scalable, and easy to set up.
 
