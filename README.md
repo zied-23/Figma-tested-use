@@ -6,7 +6,7 @@ This is a Next.js application for [Design to Web app]. This project is designed 
 
 Before running the project, make sure you have the following installed on your machine:
 
-- [Node.js](https://nodejs.org/en/) (>= 20.00.0)
+- [Node.js](https://nodejs.org/en/) (>= 18.18.0)
 - [npm](https://npmjs.com) or [Yarn](https://yarnpkg.com/) for package management
 
 ## Getting Started
